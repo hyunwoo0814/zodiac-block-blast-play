@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,65490,o=>{"use strict";o.i(47167),o.s(["f",0,o=>`/zodiac-block-blast-play${o}`])}]);
